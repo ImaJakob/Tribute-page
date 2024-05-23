@@ -1,0 +1,44 @@
+#main {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+#main #title {
+    text-align: center;
+    color: #333;
+}
+
+#main #img-div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#main #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#main #img-caption {
+    font-style: italic;
+    color: #777;
+}
+
+#main #tribute-info {
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+#main #tribute-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #667686;
+    text-decoration: none;
+}
+
+#main #tribute-link:hover {
+    text-decoration: underline;
+}
